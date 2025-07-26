@@ -1,0 +1,9 @@
+jellyfish
+textdistance
+gensim
+scikit-learn
+sentence-transformers
+jellyfish
+networkx
+rapidfuzz
+tqdm
