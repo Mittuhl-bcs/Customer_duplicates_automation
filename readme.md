@@ -51,7 +51,7 @@ This code helps in identifying companies saved in different variations and forma
     - Final_Data: All customers with duplicate tagging
     - Latest_Dups: Only recent duplicates and their groups
 - Run domain_based_matcher.main() to identify matches by domain patterns.
-
+ 
 
 ## Domain_based_matcher.py
 - This is for matching the names based on their domains such as (gmail, workaci etc..).
